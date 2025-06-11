@@ -38,7 +38,7 @@ Whether I’m working with code or collaborating on design systems, I care deepl
 
 ## 💡 What I Value
 
-* **User-Centered Design**: Build with the user in mind — always.
+* **User-Centered Design**: Build with the user in mind always.
 * **Simplicity & Clarity**: Clean layouts, clean code, clean structure.
 * **Consistency**: In visual language, in code style, in UX patterns.
 * **Continuous Growth**: Always learning, always improving.
