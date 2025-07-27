@@ -53,8 +53,3 @@ Whether I’m working with code or collaborating on design systems, I care deepl
 ---
 
 > *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
->
-> ## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/miuku-dll/miuku-dll/blob/output/snake.svg)
-
