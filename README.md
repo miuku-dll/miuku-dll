@@ -1,5 +1,4 @@
-![GitHub Snake](https://raw.githubusercontent.com/miuku-dll/snk/output/github-contribution-grid-snake.svg)
-
+![GitHub Snake dark](https://raw.githubusercontent.com/miuku-dll/miuku-dll/output/github-contribution-grid-snake-dark.svg)
 
 ## 🎨 Front-End Developer & Designer
 
