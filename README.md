@@ -1,4 +1,5 @@
-# Hi there, I'm Kendra 👋
+![GitHub Snake](https://raw.githubusercontent.com/miuku-dll/snk/output/github-contribution-grid-snake.svg)
+
 
 ## 🎨 Front-End Developer & Designer
 
