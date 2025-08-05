@@ -2,7 +2,7 @@
 
 ## 🎨 Front-End Developer & Designer
 
-I’m a **Front-End Developer** from **Russia**, passionate about creating clean, responsive, and user-friendly interfaces. My focus is on blending design with code — crafting intuitive experiences that are not just functional, but beautiful.
+I’m a **Front-End Developer** from **Russia**, passionate about creating clean, responsive, and user-friendly interfaces. My focus is on blending design with code - crafting intuitive experiences that are not just functional, but beautiful.
 
 Whether I’m working with code or collaborating on design systems, I care deeply about detail, usability, and performance.
 
@@ -52,4 +52,4 @@ Whether I’m working with code or collaborating on design systems, I care deepl
 
 ---
 
-> *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+> *"Design is not just what it looks like and feels like. Design is how it works."* - Steve Jobs
